@@ -7,4 +7,4 @@
 
 Para acessar o projeto, utilize a url abaixo:
 
-[Link para o projeto](https://bsandes.github.io/mini-**portfolio**)
+[Link para o projeto](https://bsandes.github.io/mini-portfolio)
